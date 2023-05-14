@@ -1,0 +1,12 @@
+{
+  "links": [
+    {
+      "link": "/posts",
+      "label": "Posts"
+    },
+    {
+      "link": "/categories",
+      "label": "Categories"
+    }
+  ]
+}
